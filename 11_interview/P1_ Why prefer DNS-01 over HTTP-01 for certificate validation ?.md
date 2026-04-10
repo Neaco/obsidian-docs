@@ -1,0 +1,1 @@
+DNS-01 is preferred because it proves domain ownership via DNS without relying on HTTP routing, ingress availability, or Cloudflare proxy behavior, making certificate issuance reliable and decoupled from the traffic path.

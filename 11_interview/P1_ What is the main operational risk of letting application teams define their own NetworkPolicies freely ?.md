@@ -1,0 +1,2 @@
+
+The main risk is that teams will over-permit traffic (e.g., allow-all policies) to unblock delivery, silently breaking isolation guarantees and reintroducing cross-namespace coupling that the platform can no longer reason about or enforce.
